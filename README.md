@@ -1,6 +1,6 @@
-# TensorFlow Developer Certificate Bootcamp
+# TensorFlow Developer Certificate Bootcamp 🔥
 
-## Contents of notebooks
+## Contents of notebooks 📖
 
 ### 🛠 00. TensorFlow Fundamentals
   * Introduction to tensors (creating tensors)
@@ -59,7 +59,7 @@
 
 ---
 
-### 🛠 07. Milestone Project 1: Food Vision
+### 🛠 07. Milestone Project 1: Food Vision 🍔👁
   * Combine everything you've learned in the previous 6 notebooks to build Food Vision: a computer vision model able to classify 101 different kinds of foods. Our model well and truly beats the original Food101 paper.
 
 ---
@@ -77,12 +77,12 @@
 
 ---
 
-### 🛠 09. Milestone Project 2: SkimLit
+### 🛠 09. Milestone Project 2: SkimLit 📄🔥
   * Replicate a the model which powers the PubMed 200k paper to classify different sequences in PubMed medical abstracts (which can help researchers read through medical abstracts faster)
 
 ---
 
-### 🛠 10. Time Series fundamentals in TensorFlow
+### 🛠 10. Time Series fundamentals in TensorFlow 💰📈
   * Learn how to diagnose a time series problem (building a model to make predictions based on data across time, e.g. predicting the stock price of AAPL tomorrow)
   * Prepare data for time series neural networks (features and labels)
   * Understanding and using different time series evaluation methods
@@ -94,9 +94,9 @@
 ## Table of materials 📖
 This table is the ground truth for course materials. All the links you need for everything will be here.
 
-Key:
-* **Number:** The number of the target notebook (this may not match the video section of the course but it ties together all of the materials in the table)
-* **Notebook:** The notebook for a particular module with lots of code and text annotations (notebooks from the videos are based on these)
+🔑Key:
+* **Number:** The number of the target notebook
+* **Notebook:** The notebook for a particular module with lots of code and text annotations
 * **Data/model:** Links to datasets/pre-trained models for the associated notebook
 
 | Number | Notebook | Data/Model |
